@@ -36,7 +36,7 @@ To run the Streamlit application locally:
 5. Open the provided local URL (usually `http://localhost:8501`) in your web browser.
 
 ## 6. Product Link / Demo
-- **Streamlit App:** [Insert your deployed Streamlit Community Cloud link here]
+- **Streamlit App:** [(https://acc102-2471076-xinrushen-track4-v93c5ubfz5cydcbuljra2k.streamlit.app/)]
 - **Demo Video:** [Insert your 1-3 minute demo video link here]
 
 ## 7. Limitations & Next Steps
